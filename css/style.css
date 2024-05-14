@@ -38,6 +38,7 @@ main {
     display: block !important;
     width: 100% !important;
     height: 40% !important;
+    object-fit: cover;
   }
   main .content {
     padding: 20px !important;
