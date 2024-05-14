@@ -6,11 +6,11 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![](./images/image-product-desktop.jpg)
+![](./design/desktop-preview.jpg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://mohabelel.github.io/Front-mentor-challenge-05/)
 
 
 
